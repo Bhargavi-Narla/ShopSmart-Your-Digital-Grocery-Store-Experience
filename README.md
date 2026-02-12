@@ -54,4 +54,4 @@ Integration of backend and frontend via Axios/fetch
 
 Deployment readiness
 
-👤 Author Name: K.V.S.NAGA LOKESH Stack: MERN (MongoDB, Express, React, Node)
+ Stack: MERN (MongoDB, Express, React, Node)
